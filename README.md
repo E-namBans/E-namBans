@@ -32,11 +32,6 @@ Flutter: For building mobile applications (learning in progress).
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enambansgroup&layout=compact&theme=radical)
 
-## 🔥 Streak Stats
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=enambansgroup&theme=radical)
-
-
 ## Features to Explore
 Projects: Explore my development projects with detailed descriptions and the tech stack used.
 Blog: View the latest blog posts where I share tips and insights on web development and technology.
