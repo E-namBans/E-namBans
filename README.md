@@ -25,15 +25,6 @@ Flutter: For building mobile applications (learning in progress).
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-namBans&layout=compact&theme=radical)
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-E-namBans&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-## GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=E-namBans)
-
-
 
 ## Features to Explore
 Projects: Explore my development projects with detailed descriptions and the tech stack used.
@@ -50,10 +41,11 @@ git clone :https://E-namBans.github.io/enambans/
 ## 🎯 Goals
 
 - [ ] Contribute to 5 open-source projects in 2025
-- [ ] Learn a new programming language
+- [ ] Learn a new programming language 
 - [ ] Build android and ios Apps
 - [x] Build a personal website
 - [ ] Create 5 different types of website
+- [ ] Learn ethical hacking
 
 
 ---
