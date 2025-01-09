@@ -24,9 +24,6 @@ Flutter: For building mobile applications (learning in progress).
 
 ![Tool](https://img.shields.io/badge/Tool-Git-black)
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enambansgroup_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 🌐 Top Languages
 
