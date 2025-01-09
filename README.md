@@ -23,15 +23,15 @@ Flutter: For building mobile applications (learning in progress).
 
 ## 🌐 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enambansgroup&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-namBans&layout=compact&theme=radical)
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-enambansgroup&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-E-namBans&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enambansgroup)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=E-namBans)
 
 
 
@@ -45,7 +45,7 @@ Social Links: You can connect with me via LinkedIn, GitHub, and Twitter.
 You can view my portfolio website on your browser by simply opening the index.html file in your preferred browser. This website does not require a server to run, as all content is static. 
 
 ## Link to my portfolio website
-git clone :https://enambansgroup.github.io/enambans/
+git clone :https://E-namBans.github.io/enambans/
 
 ## 🎯 Goals
 
