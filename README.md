@@ -15,11 +15,18 @@ Python: Future backend development (not yet implemented in this portfolio).
 Flutter: For building mobile applications (learning in progress).
 
 ![Languages](https://img.shields.io/badge/Language-Python-blue)
+
 ![Languages](https://img.shields.io/badge/Language-JavaScript-yellow)
+
 ![Frontend](https://img.shields.io/badge/Frontend-React-blue)
+
 ![Backend](https://img.shields.io/badge/Backend-Node.js-green)
-![Database](https://img.shields.io/badge/Database-PostgreSQL-purple)
+
 ![Tool](https://img.shields.io/badge/Tool-Git-black)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 
 ## Features to Explore
@@ -33,6 +40,12 @@ You can view my portfolio website on your browser by simply opening the index.ht
 
 ## Link to my portfolio website
 git clone :https://enambansgroup.github.io/enambans/
+
+## Features to Explore
+Projects: Explore my development projects with detailed descriptions and the tech stack used.
+Blog: View the latest blog posts where I share tips and insights on web development and technology.
+Dark Mode: Toggle dark mode for a more comfortable reading experience.
+Social Links: You can connect with me via LinkedIn, GitHub, and Twitter.
 
 
 ---
