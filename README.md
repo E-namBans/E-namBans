@@ -5,8 +5,6 @@ I specialize in creating responsive, accessible, and pixel-perfect web experienc
 
 When I'm not coding, I love exploring new destinations and finding inspiration in nature. Feel free to explore my work and get in touch!
 
-## Features
-
 ## Technologies Used
 HTML: Structuring the content of the website.
 CSS: Styling the website, including flexbox, grid layout, and media queries for responsiveness.
@@ -20,14 +18,22 @@ Flutter: For building mobile applications (learning in progress).
 
 ![Frontend](https://img.shields.io/badge/Frontend-React-blue)
 
-![Backend](https://img.shields.io/badge/Backend-Node.js-green)
-
 ![Tool](https://img.shields.io/badge/Tool-Git-black)
 
 
 ## 🌐 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enambansgroup&layout=compact&theme=radical)
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-enambansgroup&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enambansgroup)
+
+
 
 ## Features to Explore
 Projects: Explore my development projects with detailed descriptions and the tech stack used.
@@ -41,11 +47,13 @@ You can view my portfolio website on your browser by simply opening the index.ht
 ## Link to my portfolio website
 git clone :https://enambansgroup.github.io/enambans/
 
-## Features to Explore
-Projects: Explore my development projects with detailed descriptions and the tech stack used.
-Blog: View the latest blog posts where I share tips and insights on web development and technology.
-Dark Mode: Toggle dark mode for a more comfortable reading experience.
-Social Links: You can connect with me via LinkedIn, GitHub, and Twitter.
+## 🎯 Goals
+
+- [ ] Contribute to 5 open-source projects in 2025
+- [ ] Learn a new programming language
+- [ ] Build android and ios Apps
+- [x] Build a personal website
+- [ ] Create 5 different types of website
 
 
 ---
