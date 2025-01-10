@@ -38,9 +38,9 @@ You can view my portfolio website on your browser by simply opening the index.ht
 ## Link to my portfolio website
 git clone :https://E-namBans.github.io/enambans/
 
-## 🎯 Goals
+## 🎯 2025 Goals
 
-- [ ] Contribute to 5 open-source projects in 2025
+- [ ] Contribute to 5 open-source projects
 - [ ] Learn a new programming language 
 - [ ] Build android and ios Apps
 - [x] Build a personal website
