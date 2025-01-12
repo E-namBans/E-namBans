@@ -22,7 +22,7 @@ When I'm not coding, I love exploring new destinations and finding inspiration i
 ![Trophies](https://github-profile-trophy.vercel.app/?username=E-namBans&theme=onedark)
 
 ## Link to my portfolio website
-git clone :https://E-namBans.github.io/enambans/
+https://E-namBans.github.io/enambans/
 
 ## 🎯 2025 Goals
 - [ ] Contribute to 5 open-source projects
