@@ -21,20 +21,10 @@ When I'm not coding, I love exploring new destinations and finding inspiration i
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=E-namBans&theme=onedark)
 
-## Features to Explore
-Projects: Explore my development projects with detailed descriptions and the tech stack used.
-Blog: View the latest blog posts where I share tips and insights on web development and technology.
-Dark Mode: Toggle dark mode for a more comfortable reading experience.
-Social Links: You can connect with me via LinkedIn, GitHub, and Twitter.
-
-## How to Run
-You can view my portfolio website on your browser by simply opening the index.html file in your preferred browser. This website does not require a server to run, as all content is static. 
-
 ## Link to my portfolio website
 git clone :https://E-namBans.github.io/enambans/
 
 ## 🎯 2025 Goals
-
 - [ ] Contribute to 5 open-source projects
 - [ ] Learn a new programming language 
 - [ ] Build android and ios Apps
