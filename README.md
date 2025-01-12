@@ -6,9 +6,9 @@ I specialize in creating responsive, accessible, and pixel-perfect web experienc
 When I'm not coding, I love exploring new destinations and finding inspiration in nature. Feel free to explore my work and get in touch!
 
 ## Technologies Used
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) Structuring the content of the website.
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) Styling the website, including flexbox, grid layout, and media queries for responsiveness.
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) Adding interactive elements such as dark mode toggle.
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) -![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) - 
 Python: Future backend development (not yet implemented in this portfolio).
 Flutter: For building mobile applications (learning in progress).
 
@@ -26,10 +26,6 @@ Flutter: For building mobile applications (learning in progress).
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-namBans&layout=compact&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-namBans&show_icons=true&theme=tokyonight)
-
-
-
-
 
 
 ## Features to Explore
@@ -59,6 +55,11 @@ git clone :https://E-namBans.github.io/enambans/
 > "The best way to predict the future is to invent it." - Alan Kay
 
 <!--
+## 📝 Latest Blog Posts
+- [Blog Post Title](https://yourblog.com/post1)
+- [Another Post Title](https://yourblog.com/post2)
+
+
 **enambansgroup/enambansgroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
