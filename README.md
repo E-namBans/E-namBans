@@ -10,10 +10,8 @@ When I'm not coding, I love exploring new destinations and finding inspiration i
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![Languages](https://img.shields.io/badge/Language-Python-blue)                              
 
-## 🌐 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-namBans&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-namBans&show_icons=true&theme=tokyonight)
+##
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-namBans&layout=compact&theme=radical) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-namBans&show_icons=true&theme=tokyonight)
 
 ## 👀 Visitor Count
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.YourGitHubUsername)
