@@ -13,8 +13,6 @@ When I'm not coding, I love exploring new destinations and finding inspiration i
 ## 🌐 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-namBans&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=E-namBans&theme=tokyonight)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-namBans&show_icons=true&theme=tokyonight)
 
 ## 👀 Visitor Count
@@ -22,12 +20,6 @@ When I'm not coding, I love exploring new destinations and finding inspiration i
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=E-namBans&theme=onedark)
-
-## ⌛ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 
 ## Features to Explore
 Projects: Explore my development projects with detailed descriptions and the tech stack used.
