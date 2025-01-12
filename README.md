@@ -11,7 +11,7 @@ When I'm not coding, I love exploring new destinations and finding inspiration i
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![Languages](https://img.shields.io/badge/Language-Python-blue)                              
 
 ##  📊 Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-namBans&layout=compact&theme=radical) ****
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-namBans&layout=compact&theme=radical) <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-namBans&show_icons=true&theme=tokyonight)
 
 ## 👀 Visitor Count
