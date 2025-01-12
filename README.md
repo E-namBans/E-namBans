@@ -8,13 +8,12 @@ When I'm not coding, I love exploring new destinations and finding inspiration i
 ## ⚙️ Tools & Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![Languages](https://img.shields.io/badge/Language-Python-blue)  ![Languages] ![Frontend](https://img.shields.io/badge/Frontend-React-blue)                                    
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![Languages](https://img.shields.io/badge/Language-Python-blue)                              
 
 ## 🌐 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-namBans&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=E-namBans&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-namBans&show_icons=true&theme=tokyonight)
 
@@ -23,6 +22,12 @@ When I'm not coding, I love exploring new destinations and finding inspiration i
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=E-namBans&theme=onedark)
+
+## ⌛ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## Features to Explore
 Projects: Explore my development projects with detailed descriptions and the tech stack used.
