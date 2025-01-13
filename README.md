@@ -30,6 +30,7 @@ https://E-namBans.github.io/enambans/
 - [x] Build a personal website
 - [ ] Create 5 different types of website
 - [ ] Learn ethical hacking
+- [ ] Learn UI/UX design
 
 
 ---
