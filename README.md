@@ -1,4 +1,4 @@
-## Hi there 👋 I am Enam Bansah, a passionate Front-End Developer with skills in HTML, CSS, JavaScript, Python, and Flutter. 
+## Hi there 👋 I am Enam Bansah, a passionate Front-End Developer with skills in HTML, CSS, JavaScript. 
 
 ## About Me
 I hold a BSc in Medical Biochemistry and Molecular Biology, and my journey into programming began as a personal interest. As a self-taught developer, I’ve immersed myself in the world of coding and constantly strive to improve my skills. In addition to web development, I have developed a keen interest in ethical hacking and am gaining hands-on experience using Linux for security and penetration testing.
