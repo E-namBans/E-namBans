@@ -1,9 +1,9 @@
 ## Hi there 👋 I am Enam Bansah, a passionate Front-End Developer with skills in HTML, CSS, JavaScript, Python, and Flutter. 
 
 ## About Me
-I specialize in creating responsive, accessible, and pixel-perfect web experiences. I am always eager to explore new technologies and learn new skills. Currently, I'm expanding my expertise by learning Python and Flutter to build mobile applications alongside web development.
+I hold a BSc in Medical Biochemistry and Molecular Biology, and my journey into programming began as a personal interest. As a self-taught developer, I’ve immersed myself in the world of coding and constantly strive to improve my skills. In addition to web development, I have developed a keen interest in ethical hacking and am gaining hands-on experience using Linux for security and penetration testing.
 
-When I'm not coding, I love exploring new destinations and finding inspiration in nature. Feel free to explore my work and get in touch!
+When I’m not coding, you’ll find me exploring new destinations, finding inspiration in nature, or learning new technologies. I’m always eager to take on new challenges, expand my knowledge, and grow my skill set. Feel free to check out my projects and reach out if you'd like to collaborate or connect!
 
 ## ⚙️ Tools & Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
